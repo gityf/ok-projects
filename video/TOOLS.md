@@ -1,3 +1,16 @@
+## YUV Playyer
+YUV Player Deluxe is a full-featured tool for playback of uncompressed planar YUV video files. It is intended for researchers in the area of video compression, developers of video codecs and video chips and for all specialists involved in video processing.
+
+A number of unique features and a thoroughly designed interface make this program the helpful tool necessary when the playback of uncompressed YUV video files files is required.
+
+- yuvplayer <http://www.yuvplayer.com/>
+
+## vooya
+vooya is a YUV player, RGB player and a generic raw data player – video data that is uncompressed and containerless, most commonly used in scientific environments. Besides, vooya plays DPX/CINEON, TIFF, OpenEXR and Radiance (HDR) image sequences.
+
+vooya is available for Windows, Mac OS X and Linux, and has a variety of features which makes working with raw data easier:
+- vooya <http://www.offminor.de/>
+
 ## MediaInfo
 MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 ### install on Mac OS
