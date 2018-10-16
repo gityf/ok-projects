@@ -1,7 +1,9 @@
 ## MediaInfo
 MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 ### install on Mac OS
+```bash
 brew install mediainfo
+```
 - mediainfo <https://mediaarea.net/en/MediaInfo>
 ### demo show
 ```bash
