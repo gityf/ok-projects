@@ -9,6 +9,13 @@ Conversion between various formats: RGB, YUV, JPEG, etc.
 Tested on Mac and Linux, portable to Windows and some BSDs
 - api page <https://ken.tossell.net/libuvc/doc/>
 
+## libuvc_ros
+ROS Driver for USB Video Class Cameras
+libuvc_camera is a ROS driver that supports webcams and other UVC-standards-compliant video devices. It's a cross-platform replacement for uvc_camera, a Linux-only webcam driver.
+
+Documentation is available on the ROS wiki: libuvc_camera.
+- <http://wiki.ros.org/libuvc_ros>
+- github <https://github.com/ros-drivers/libuvc_ros>
 
 ## uvc
 The goal of this project is to provide all necessary software components to fully support UVC compliant devices in Linux. This include a V4L2 kernel device driver and patches for user-space tools.
