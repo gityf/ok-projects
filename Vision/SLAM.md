@@ -1,3 +1,9 @@
+## OpenSLAM
+The simultaneous localization and mapping (SLAM) problem has been intensively studied in the robotics community in the past. Different techniques have been proposed but only a few of them are available as implementations to the community. The goal of OpenSLAM.org is to provide a platform for SLAM researchers which gives them the possibility to publish their algorithms. OpenSLAM.org was established in 2006 and in 2018, it has been moved to github.
+
+- <http://openslam.org>
+- <https://openslam-org.github.io/>
+
 ## 基于特征点的SLAN
 ### LSD-SLAM
 LSD-SLAM: Large-Scale Direct Monocular SLAM
