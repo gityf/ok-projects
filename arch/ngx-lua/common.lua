@@ -58,7 +58,7 @@ local function read_http(args)
     end
 
     if resp.status ~= 200 then
-        ngx_log(ngx_ERR, "request error, status : ", request.status)
+        ngx_log(ngx_ERR, "request error, status : ", resp.status)
         return
     end
 
